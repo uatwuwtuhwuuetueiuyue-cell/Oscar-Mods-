@@ -1,4 +1,4 @@
-# <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
 <meta charset="UTF-8">
@@ -46,4 +46,3 @@ section h3{text-align:center;font-size:clamp(1.5rem,5vw,2.2rem);margin:0 0 30px;
 .card:hover{border-color:#fff;box-shadow:0 0 26px rgba(255,255,255,.35)}
 .card h4{margin:0 0 8px;font-size:1.2rem}
 .card p{margin:0;color:var(--muted);line-height:1.8}
-اوسكار 
